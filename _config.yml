@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Gurleen Ahuja
+bio: An ambitious learner
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url:https://www.dropbox.com/home?preview=Resume+SI+2.docx
 
 url: http://GurleenAhuja.github.io
 # your url: http://USERNAME.github.io
@@ -49,12 +49,12 @@ github: mygithub
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: gurleenahuja11@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    GurleenAhuja:
+        name: Gurleen Ahuja
+        bio: An ambitious learner
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
